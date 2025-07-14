@@ -1,4 +1,4 @@
-# 🧠 Estudos em Linguagem C - Grafos
+# 🧠 Estudos em Linguagem C/C++ - Grafos
 
 Este repositório contém códigos-fonte em linguagem **C** para estudo e implementação de algoritmos de grafos, incluindo:
 
